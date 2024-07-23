@@ -1,0 +1,76 @@
+
+Especificação do projeto Controlador de temperatura digital.
+
+Entrada
+PT100/PT1000 OU 
+Termopar J
+
+3 saídas digitais 12v 200mA
+Controle
+Alarme
+Auxiliar
+
+Display
+4 sete segmentos OU
+Mini LCD
+
+LEDS
+Controle 
+Alarme 
+Auxiliar
+
+Resolução 
+00.00
+
+Entrada digital 
+1 contato seco 
+
+Botões 
+1 seta p cima
+1 seta p baixo
+1 enter
+1 esc
+
+Fonte interna 220vac 12vdc 2A
+
+Dimensões
+48x48x100mm
+75x35x100mm
+
+Árvore de menus
+AJUSTE
+CONFIGURAÇÃO 
+
+Parametros configuraveis pelo usuário via botoes
+
+SETPOINT
+
+LIMITE INFERIOR 
+
+LIMITE SUPERIOR
+
+HISTERESE
+
+OFFSET
+
+MODO REFRIGERAÇÃO OU AQUECIMENTO
+
+DESCONGELAMENTO HABILITA/DESABILITA 
+
+ALARME INFERIOR 
+
+ALARME SUPERIOR
+
+FAIXA ALARME 
+
+HISTERESE ALARME
+
+TEMPO ATRASO ENERGIZACAO
+
+SET DATA HORA
+
+SET TEMPORIZADOR HORÁRIO SAIDA AUXILIAR 
+
+CONSTANTES PID
+
+LOCK PARAMETROS
